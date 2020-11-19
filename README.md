@@ -4,6 +4,7 @@
  - Developed in Java using Spring boot
  - Using H2 embedded database 
  - Project set to open at port 8080
+ - Java version: ("1.8.0_211")
   
 
 ## Running the project:
